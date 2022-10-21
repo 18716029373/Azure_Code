@@ -1,5 +1,13 @@
 {
 	"name": "gaittest2",
+	"properties": {
+		"globalParameters": {
+			"name": {
+				"type": "string",
+				"value": "test"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
