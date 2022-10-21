@@ -1,0 +1,9 @@
+{
+	"name": "GaitTest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6cbf437-381c-48c5-a588-3bde9e9e4263",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
